@@ -52,7 +52,7 @@ Postposition ;
 Numeral ;
 Partitive ; 
 Particle ;
-Verbnegative ;
+!Verbnegative ; ! Not defined
 
 LEXICON Part
 %<part%>: # ;
@@ -175,6 +175,10 @@ LEXICON V1CONJ
 
 LEXICON V2CONJ
 %<ind%>%<prs%>: # ;!PRES2 ; ! 
+
+LEXICON V
+# ; ! V shall not exist. All V verbs shall get V1 __or__ V2.
+
 
 LEXICON V1 
 %<v%>: VCOMMON ; ! 
