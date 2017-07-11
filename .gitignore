@@ -1,3 +1,4 @@
+/*.hfst
 /.deps
 /INSTALL
 /Makefile
@@ -13,12 +14,15 @@
 /kpv-mhr.automorf.hfst
 /kpv-mhr.lrx.bin
 /kpv-mhr.mode
+/kpv-mhr.mor.rlx.bin
 /kpv-mhr.rlx.bin
+/kpv-mhr.syn.rlx.bin
 /kpv-mhr.t1x.bin
 /kpv-mhr.t2x.bin
 /kpv-mhr.t3x.bin
 /mhr-kpv.autobil.bin
 /mhr-kpv.autogen.hfst
+/mhr-kpv.autolex.bin
 /mhr-kpv.automorf.hfst
 /mhr-kpv.lrx.bin
 /mhr-kpv.mode
